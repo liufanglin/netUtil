@@ -10,6 +10,9 @@ public class StreamTools {
 	 * 把输入流转换成字符串
 	 * @param is
 	 * @return
+	 * 为了解决冲突的例子&aaaaa
+	 * 
+	 * 
 	 */
 	public static String readStream(InputStream is){
 		
