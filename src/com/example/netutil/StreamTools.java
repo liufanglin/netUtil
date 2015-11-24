@@ -18,7 +18,7 @@ public class StreamTools {
 	 * 
 	 * 
 	 */
-	public static String readStream(InputStream is){
+	public static String readStream(InputStream iswww){
 		
 		try {
 			
