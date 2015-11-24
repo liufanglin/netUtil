@@ -7,10 +7,13 @@ import java.io.InputStream;
 public class StreamTools {
 	
 	/**
-	 * ��������ת�����ַ�
+	 * 
 	 * zhu fen zhi shang de xiu gai
 	 * @param is
 	 * @return
+	 * 
+	 * 
+	 * 
 	 */
 	public static String readStream(InputStream is){
 		
