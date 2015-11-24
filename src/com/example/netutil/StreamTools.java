@@ -7,7 +7,8 @@ import java.io.InputStream;
 public class StreamTools {
 	
 	/**
-	 * °ÑÊäÈëÁ÷×ª»»³É×Ö·û´®
+	 * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×ªï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½
+	 * zhu fen zhi shang de xiu gai
 	 * @param is
 	 * @return
 	 */
