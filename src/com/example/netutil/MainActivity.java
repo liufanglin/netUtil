@@ -8,6 +8,11 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Button;
 import android.widget.TextView;
+/**
+ * test fen zhi 
+ * @author samsung
+ *
+ */
 
 public class MainActivity extends Activity {
 	private TextView tv_show;
