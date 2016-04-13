@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
 		params.put("id", "1");
 		params.put("name", "zhangsan");
 		params.put("type", "POST");
-		params.put("path1gh", path);
+		params.put("path1gh1111", path);
 		params.put("isupfile", filepath);
 		
 		//第一个参数是请求的路径,第一个参数是请求头的参数，第二个是上传文件用的，传一个file对象，传空代表我们不传文件,
