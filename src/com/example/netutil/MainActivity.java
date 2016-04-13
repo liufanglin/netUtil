@@ -15,6 +15,7 @@ import android.widget.TextView;
  */
 
 public class MainActivity extends Activity {
+    pirvate int  a =  0 ;
 	private TextView tv_show;
 	private Button btn_result;
 	protected static final int FAILTURE = 0;	
@@ -32,7 +33,7 @@ public class MainActivity extends Activity {
 		params.put("id", "1");
 		params.put("name", "zhangsan");
 		params.put("type", "POST");
-		params.put("path", path);
+		params.put("path1gh", path);
 		params.put("isupfile", filepath);
 		
 		//第一个参数是请求的路径,第一个参数是请求头的参数，第二个是上传文件用的，传一个file对象，传空代表我们不传文件,

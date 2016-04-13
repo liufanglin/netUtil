@@ -5,6 +5,7 @@ package com.example.netutil;
  * @author samsung
  *娣诲姞浜嗘敞閲�
  */
+//添加了一行注释
 //woyeshizuile 
 public interface BackResult {
 	
