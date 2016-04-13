@@ -15,6 +15,7 @@ import android.widget.TextView;
  */
 
 public class MainActivity extends Activity {
+   //¸Ä¸Ä¸Ä
    //dsafasdfa
 	private int  a =  0 ;
 	private TextView tv_show;
