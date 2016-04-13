@@ -12,6 +12,8 @@ import android.widget.TextView;
  * test fen zhi 
  * @author samsung
  *
+zai hhh fen zhi shang zuo hebing 
+
  */
 
 public class MainActivity extends Activity {
