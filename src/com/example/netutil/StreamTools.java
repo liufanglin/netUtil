@@ -6,8 +6,8 @@ import java.io.InputStream;
 
 public class StreamTools {
 	
-	/**
-	 * 
+	/**112344
+	 * tggh
 	 * zhu fen zhi shang de xiu gai
 	 * @param is
 	 * @return
