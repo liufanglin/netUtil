@@ -13,7 +13,7 @@ import android.widget.TextView;
  * @author samsung
  *
 zai hhh fen zhi shang zuo hebing 
-
+majggghh
  */
 
 public class MainActivity extends Activity {
