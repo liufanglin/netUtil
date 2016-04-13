@@ -15,7 +15,8 @@ import android.widget.TextView;
  */
 
 public class MainActivity extends Activity {
-    private int  a =  0 ;
+   //dsafasdfa
+	private int  a =  0 ;
 	private TextView tv_show;
 	private Button btn_result;
 	protected static final int FAILTURE = 0;	
